@@ -7,11 +7,27 @@ body {
 }
 
 .site-header {
-    background-color: hsl(74, 75%, 85%);
+    background-color: hsl(74, 78%, 23%);
     padding: 30px;
-    color:darkolivegreen;
+    color: #fff;
+    margin-bottom: 20px;
 }
 
 .page-name {
     margin:0;
+}
+
+.nav-links {
+    color:#fff
+}
+
+.main-content {
+    background-color: rgb(232, 141, 141);
+    padding: 30px;
+    margin-bottom: 20px;
+
+}
+.site-footer {
+    background-color: lightsteelblue;
+    padding: 30px;
 }
