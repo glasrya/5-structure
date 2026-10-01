@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(242, 212, 238);
+    background-color: rgb(159, 205, 232);
 }
 
 body {
@@ -7,7 +7,7 @@ body {
 }
 
 .site-header {
-    background-color: hsl(74, 78%, 23%);
+    background-color: rgb(121, 150, 68);
     padding: 30px;
     color: #fff;
     margin-bottom: 20px;
@@ -18,16 +18,16 @@ body {
 }
 
 .nav-links {
-    color:#fff
+    color: #fff;
 }
 
 .main-content {
-    background-color: rgb(232, 141, 141);
+    background-color: rgb(36, 114, 183);
     padding: 30px;
     margin-bottom: 20px;
-
 }
+
 .site-footer {
-    background-color: lightsteelblue;
+    background-color: rgb(102, 168, 146);
     padding: 30px;
 }
