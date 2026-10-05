@@ -21,6 +21,21 @@ body {
     color:#fff
 }
 
+.nav-links:hover {
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+}
+
+.nav-links:active {
+    background-color: coral;
+}
+
+.nav-links:focus {
+    font-size: 30px;
+} 
+
+
 .main-content {
     background-color: rgb(232, 141, 141);
     padding: 30px;
